@@ -38,6 +38,7 @@ public class TestClass {
 //          driver.findElement(By.xpath(".//*[@id='issuetype-field']")).sendKeys("Story");
 //          driver.findElement(By.xpath(".//*[@id='issuetype-field']")).sendKeys(Keys.TAB);
 //          keyAction.keyDown(Keys.ALT).keyDown(Keys.SHIFT).sendKeys("s").keyUp(Keys.ALT).keyUp(Keys.SHIFT).perform();
+// test GIT
             writer.write(cellA+ " Done"+"\r\n");
             writer.flush();
         }
